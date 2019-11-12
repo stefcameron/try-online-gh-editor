@@ -1,0 +1,1 @@
+I was able to add this text file in the new /docs directory simply by typing "docs/hello.txt" in the file name box!
